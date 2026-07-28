@@ -1,16 +1,98 @@
-# React + Vite
+# 💼 Job Board UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Job Board UI built with **React.js** and **CSS**. This project showcases a clean job listing interface with reusable components and a responsive layout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 📱 Fully Responsive Design
+- ⚛️ Built with React.js
+- 🎨 Modern & Clean UI
+- 🧩 Reusable Components
+- 📋 Job Listing Cards
+- ⚡ Fast Development with Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- CSS
+- Vite
+- JavaScript (ES6)
+
+---
+
+## 📸 Preview
+
+<img width="1902" height="916" alt="jobboard" src="https://github.com/user-attachments/assets/5249d633-bdaf-425d-9c6e-824797e03200" />
+
+---
+
+## 📂 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/aayushgupta-in25-art/job-board-ui.git
+```
+
+Go to the project folder:
+
+```bash
+cd job-board-ui
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📁 Folder Structure
+
+```
+src/
+├── assets/
+├── components/
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## 🎯 Learning Objectives
+
+- React Component Architecture
+- Responsive UI Design
+- Reusable Components
+- CSS Layout Techniques
+- Modern Frontend Development
+
+---
+
+## 👨‍💻 Author
+
+**Aayush Gupta**
+
+GitHub: https://github.com/aayushgupta-in25-art
+
+---
+
+⭐ If you like this project, don't forget to give it a star!
